@@ -1,19 +1,13 @@
 # CEP146 – Lab 09: Prompt Engineering with AI
-### Final Submission – Anita (yli780)
+### Anita 
 
 ---
 
-## 1. Purpose
-
-The goal of this lab is to learn how to design effective prompts for AI tools. I practiced comparing poor and good prompts, adding useful details like audience, constraints, and formatting. I also learned how to use advanced prompting strategies such as chain-of-thought reasoning and iterative refinement to solve a problem more effectively.
+## 1. Exercise 1 – Your First Prompts
 
 ---
 
-## 2. Exercise 1 – Your First Prompts
-
----
-
-### 2.1 Scenario 1 – Email Declining an Invitation
+### 1.1 Scenario 1 – Email Declining an Invitation
 
 #### Poor Prompt
 > “Write an email to say I can’t go.”
@@ -31,7 +25,7 @@ This prompt clearly states the audience, tone, purpose, and format, so the AI ca
 
 ---
 
-### 2.2 Scenario 2 – Explain Photosynthesis
+### 1.2 Scenario 2 – Explain Photosynthesis
 
 #### Poor Prompt
 > “Explain photosynthesis.”
@@ -48,7 +42,7 @@ The prompt identifies the audience, difficulty level, word limit, and example re
 
 ---
 
-### 2.3 Scenario 3 – Recipe Suggestions
+### 1.3 Scenario 3 – Recipe Suggestions
 
 #### Poor Prompt
 > “Give me dinner ideas.”
@@ -66,20 +60,20 @@ The prompt includes diet requirements, cooking skills, time constraints, and a s
 
 ---
 
-### 2.4 Pair Discussion Reflection
+### 1.4 Pair Discussion Reflection
 
 During the pair discussion, I identified missing details in my partner’s prompts, such as tone, audience, and format. I suggested adding more context to make prompts clearer and more useful. I also received helpful feedback that encouraged me to be more specific. The discussion helped me better understand how to make a high-quality prompt.
 
 ---
 
-## 3. Exercise 2 – Problem-Solving with AI (Event Planning)
+## 2. Exercise 2 – Problem-Solving with AI (Event Planning)
 
-### 3.1 Scenario Selected
+### 2.1 Scenario Selected
 Our group chose the **Event Planning** scenario and planned a birthday party using progressive prompts.
 
 ---
 
-### 3.2 Prompt Sequence
+### 2.2 Prompt Sequence
 
 #### Prompt 1 – Baseline (Vague)
 > “Help me plan an event.”
@@ -123,30 +117,15 @@ Adds practical details and improves the final plan.
 
 ---
 
-### 3.3 Group Presentation Summary
+### 2.3 Group Presentation Summary
 
 In our group presentation, we explained how each prompt added more clarity, structure, and constraints. We also compared strategies with other groups. We explained why chain-of-thought and iterative refinement help produce a safer, more realistic plan.
 
 ---
 
-## 4. Reflection and Rubric Alignment
+## 3. Reflection
 
 ### Reflection
 Through this lab, I learned that good prompts must include audience details, constraints, tone, and structure. I also saw how reasoning and refinement create better AI responses. This lab helped me understand how to guide AI step-by-step instead of giving vague instructions.
 
-### Rubric Alignment Table
-
-| Rubric Requirement | Evidence in My Work |
-|--------------------|---------------------|
-| Poor + Good prompts for 3 scenarios | Completed for email, photosynthesis, recipes |
-| Understanding of differences | Explained why poor prompts fail and why good prompts work |
-| Included audience, format, constraints | Present in all good prompts |
-| Pair discussion participation | Included reflection section |
-| Group scenario chosen | Event Planning selected |
-| Comprehensive strategy | Six prompts showing progression |
-| Advanced techniques | Chain-of-thought + constraints + refinement |
-| Group presentation | Summary included |
-| Engagement | Clear evidence of understanding and application |
-
----
 
